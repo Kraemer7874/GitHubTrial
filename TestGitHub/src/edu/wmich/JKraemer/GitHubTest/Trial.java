@@ -9,6 +9,7 @@ public class Trial {
 			System.out.println("hello");
 		}
 		System.out.println("This is a test. I repeat, this is a test.");
+		System.out.println("Is this a success?");
 
 	}
 
